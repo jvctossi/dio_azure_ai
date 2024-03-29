@@ -46,4 +46,4 @@ Exemplo:
 
 ![image](https://github.com/jvctossi/dio_azure_ai/assets/48337717/51b3e72f-e79a-439e-8a34-9adee6abe4c3)
 
-
+Lembre-se de excluir o recurso criado após finalizar os testes.
