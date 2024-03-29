@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "17e84b97-d332-4a78-84b6-f65fa51a83b6",
+  "content-length": "156",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a man standing in a stadium",
+    "confidence": 0.6914402842521667
+  },
+  "metadata": {
+    "width": 3072,
+    "height": 4608
+  }
+}
